@@ -4,59 +4,40 @@ import pandas as pd
 st.set_page_config(page_title="Perfumes Dashboard", layout="wide")
 
 st.title("Perfumes Dashboard")
-st.subheader("Análisis y visualización interactiva del catálogo de fragancias")
+st.subheader("Análisis y visualización del catálogo de fragancias")
 
 df = pd.read_csv("perfumes.csv")
 
-st.sidebar.header("Filtros de Búsqueda")
+st.header("Catálogo General")
+st.dataframe(df, use_container_width=True)
 
-gender_filter = st.sidebar.multiselect(
-    "Género:",
-    options=df["gender"].unique(),
-    default=df["gender"].unique()
-)
-
-brands_available = sorted(df["brand"].unique().tolist())
-brand_filter = st.sidebar.multiselect(
-    "Marcas:",
-    options=brands_available,
-    default=brands_available
-)
-
-search_query = st.sidebar.text_input("Buscar fragancia por nombre:")
-
-filtered_df = df[
-    (df["gender"].isin(gender_filter)) &
-    (df["brand"].isin(brand_filter))
-]
-
-if search_query:
-    filtered_df = filtered_df[filtered_df["name"].str.contains(search_query, case=False, na=False)]
-
-m1, m2, m3 = st.columns(3)
-m1.metric("Total Fragancias", len(filtered_df))
-m2.metric("Precio Promedio ($USD)", f"${filtered_df['price'].mean():.2f}" if not filtered_df.empty else "$0")
-m3.metric("Calificación Promedio", f"{filtered_df['rating'].mean():.2f} ⭐" if not filtered_df.empty else "0")
-
-st.write("### Catálogo de Fragancias")
-st.dataframe(filtered_df, use_container_width=True)
+st.markdown("---")
 
 col1, col2 = st.columns(2)
 
 with col1:
-    st.write("### Top 15 Fragancias por Precio ($USD)")
-    if not filtered_df.empty:
-        top_price = filtered_df.sort_values(by="price", ascending=False).head(15)
-        st.bar_chart(top_price.set_index("name")["price"])
-    else:
-        st.info("No hay datos para mostrar.")
+    st.subheader("Comparativa de Precios ($USD)")
+    st.bar_chart(df.head(20).set_index("name")["price"])
 
 with col2:
-    st.write("### Top 15 Fragancias Mejor Calificadas")
-    if not filtered_df.empty:
-        top_rating = filtered_df.sort_values(by="rating", ascending=False).head(15)
-        st.bar_chart(top_rating.set_index("name")["rating"])
-    else:
-        st.info("No hay datos para mostrar.")
+    st.subheader("Calificación de Fragancias")
+    st.bar_chart(df.head(20).set_index("name")["rating"])
 
-st.caption("Desplegado con Docker")
+st.markdown("---")
+st.header("Análisis Avanzado")
+
+col3, col4, col5 = st.columns(3)
+
+with col3:
+    st.subheader("Precio Promedio por Marca")
+    avg_price = df.groupby("brand")["price"].mean().sort_values(ascending=False).head(10)
+    st.bar_chart(avg_price)
+
+with col4:
+    st.subheader("Distribución por Género")
+    gender_counts = df["gender"].value_counts()
+    st.bar_chart(gender_counts)
+
+with col5:
+    st.subheader("Relación Precio vs. Calificación")
+    st.scatter_chart(df, x="price", y="rating", color="gender")

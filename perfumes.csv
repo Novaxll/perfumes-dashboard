@@ -1,251 +1,221 @@
 brand,name,gender,price,rating
-Afnan,Turathi Blue,Unisex,65,4.2
-Afnan,9 PM,Men,42,4.3
-Afnan,Supremacy Not Only Intense,Men,33,4.7
-Afnan,Modest Une,Men,68,4.7
-Afnan,SNOI,Men,59,4.2
-Afnan,Turathi Brown,Men,52,4.1
-Afnan,Rare Carbon,Men,30,4.3
-Afnan,Zimaya Sharaf Blend,Unisex,57,4.6
-Armaf,Club de Nuit Intense Man,Men,60,4.3
-Armaf,Club de Nuit Milestone,Unisex,66,4.7
-Armaf,Club de Nuit Sillage,Unisex,51,4.3
-Armaf,Club de Nuit Untold,Unisex,62,4.3
-Armaf,Club de Nuit Iconic,Men,25,4.7
-Armaf,Tres Nuit,Men,35,4.7
-Armaf,Ventana,Men,46,4.3
-Armaf,Hunter Intense,Men,38,4.9
-Azzaro,The Most Wanted EDP Intense,Men,118,4.2
-Azzaro,The Most Wanted Parfum,Men,123,4.2
-Azzaro,Wanted by Night,Men,119,4.6
-Azzaro,Chrome,Men,80,4.7
-Azzaro,Chrome Extreme,Men,90,4.9
-Azzaro,Pour Homme,Men,123,4.2
-Giorgio Armani,Stronger With You Intensely,Men,147,4.8
-Giorgio Armani,Stronger With You Absolutely,Men,189,4.8
-Giorgio Armani,Acqua di Giò Profondo,Men,156,4.6
-Giorgio Armani,Acqua di Giò Parfum,Men,118,4.1
-Giorgio Armani,Acqua di Giò EDT,Men,139,4.7
-Giorgio Armani,Code Parfum,Men,120,4.8
-Giorgio Armani,My Way,Women,122,4.4
-Giorgio Armani,Sì Passione,Women,168,4.6
-Versace,Eros EDT,Men,121,4.2
-Versace,Eros Flame,Men,120,4.3
-Versace,Eros Parfum,Men,109,4.7
-Versace,Dylan Blue,Men,84,4.6
-Versace,Pour Homme,Men,96,4.5
-Versace,Man Eau Fraiche,Men,106,4.2
-Versace,Bright Crystal,Women,123,4.3
-Versace,Crystal Noir,Women,103,4.6
-Dior,Sauvage EDT,Men,117,4.3
-Dior,Sauvage EDP,Men,114,4.7
-Dior,Sauvage Elixir,Men,161,4.3
-Dior,Dior Homme Intense,Men,137,4.8
-Dior,Dior Homme Sport,Men,182,4.8
-Dior,Fahrenheit,Men,150,4.3
-Dior,J'adore,Women,173,4.4
-Dior,Miss Dior,Women,168,4.2
-Chanel,Bleu de Chanel Parfum,Men,127,4.3
-Chanel,Bleu de Chanel EDP,Men,181,4.5
-Chanel,Allure Homme Sport Eau Extreme,Men,184,4.4
-Chanel,Égoïste Platinum,Men,184,4.4
-Chanel,Coco Mademoiselle,Women,138,4.9
-Chanel,No. 5,Women,127,4.5
-Chanel,Chance Eau Tendre,Women,121,4.7
-Creed,Aventus,Men,276,4.2
-Creed,Green Irish Tweed,Men,301,4.7
-Creed,Silver Mountain Water,Unisex,436,4.6
-Creed,Millésime Impérial,Unisex,417,4.4
-Creed,Virgin Island Water,Unisex,459,4.5
-Creed,Viking,Men,225,4.6
-Creed,Carmina,Women,278,4.6
-Creed,Aventus for Her,Women,356,4.7
-Tom Ford,Tobacco Vanille,Unisex,394,4.2
-Tom Ford,Oud Wood,Unisex,442,4.2
-Tom Ford,Lost Cherry,Unisex,221,4.9
-Tom Ford,Black Orchid,Unisex,354,4.9
-Tom Ford,Ombré Leather,Men,311,4.5
-Tom Ford,Noir Extreme,Men,274,4.8
-Tom Ford,Soleil Blanc,Unisex,372,4.8
-Tom Ford,Costa Azzurra,Unisex,479,4.6
-Parfums de Marly,Layton,Men,298,4.4
-Parfums de Marly,Pegasus,Men,302,4.5
-Parfums de Marly,Herod,Men,220,4.6
-Parfums de Marly,Sedley,Men,470,4.1
-Parfums de Marly,Greenley,Men,405,4.8
-Parfums de Marly,Carlisle,Men,377,4.3
-Parfums de Marly,Delina,Women,343,4.8
-Parfums de Marly,Valaya,Women,260,4.2
-Yves Saint Laurent,Y EDP,Men,172,4.8
-Yves Saint Laurent,Y Le Parfum,Men,178,4.7
-Yves Saint Laurent,La Nuit de L'Homme,Men,126,4.6
-Yves Saint Laurent,L'Homme,Men,180,4.2
-Yves Saint Laurent,Libre Intense,Women,177,4.8
-Yves Saint Laurent,Black Opium,Women,164,4.9
-Yves Saint Laurent,Mon Paris,Women,179,4.7
-Prada,Luna Rossa Black,Men,100,4.7
-Prada,Luna Rossa Ocean,Men,126,4.9
-Prada,L'Homme Prada,Men,122,4.5
-Prada,Paradoxe,Women,132,4.2
-Prada,Infusion d'Iris,Women,103,4.2
-Paco Rabanne,1 Million Elixir,Men,77,4.6
-Paco Rabanne,1 Million Lucky,Men,104,4.6
-Paco Rabanne,Invictus Victory Elixir,Men,75,4.2
-Paco Rabanne,Phantom,Men,82,4.3
-Paco Rabanne,Olympea,Women,79,4.8
-Paco Rabanne,Fame,Women,84,4.5
-Guerlain,L'Homme Idéal EDP,Men,145,4.6
-Guerlain,L'Homme Idéal Extreme,Men,137,4.5
-Guerlain,Shalimar,Women,183,4.6
-Guerlain,Mon Guerlain,Women,141,4.7
-Guerlain,Habit Rouge,Men,162,4.3
-Hermès,Terre d'Hermès EDT,Men,122,4.6
-Hermès,Terre d'Hermès Parfum,Men,155,4.4
-Hermès,H24,Men,169,4.8
-Hermès,Un Jardin Sur Le Nil,Unisex,116,4.6
-Hermès,Twilly d'Hermès,Women,122,4.1
-Lattafa,Khamrah,Unisex,46,4.7
-Lattafa,Khamrah Qahwa,Unisex,31,4.3
-Lattafa,Asad,Men,37,4.5
-Lattafa,Bade'e Al Oud Honor & Glory,Unisex,33,4.4
-Lattafa,Oud For Glory,Unisex,42,4.5
-Lattafa,Yara,Women,29,4.5
-Lattafa,Maahir Black Edition,Unisex,60,4.2
-Lattafa,Fakhar Black,Men,66,4.9
-Lattafa,Ameer Al Oudh,Unisex,25,4.9
-Lattafa,Nebras,Unisex,40,4.2
-Nishane,Hacivat,Unisex,468,4.5
-Nishane,Ani,Unisex,425,4.8
-Nishane,Fan Your Flames,Unisex,304,4.4
-Nishane,Hundred Silent Ways,Unisex,419,4.3
-Nishane,Wulong Cha,Unisex,452,4.3
-Xerjoff,Naxos,Unisex,469,4.2
-Xerjoff,Erba Pura,Unisex,371,4.3
-Xerjoff,Alexandria II,Unisex,249,4.6
-Xerjoff,Renaissance,Unisex,251,4.7
-Xerjoff,Casamorati Mefisto,Men,249,4.1
-Xerjoff,Bouquet Ideale,Women,464,4.5
-Maison Francis Kurkdjian,Baccarat Rouge 540,Unisex,300,4.1
-Maison Francis Kurkdjian,Baccarat Rouge 540 Extrait,Unisex,480,4.2
-Maison Francis Kurkdjian,Grand Soir,Unisex,315,4.2
-Maison Francis Kurkdjian,Gentle Fluidity Silver,Unisex,254,4.6
-Maison Francis Kurkdjian,724,Unisex,340,4.4
-Maison Francis Kurkdjian,Aqua Universalis,Unisex,346,4.6
-Rasasi,Hawas for Him,Men,27,4.6
-Rasasi,Hawas Ice,Men,51,4.6
-Rasasi,La Yuqawam,Men,61,4.5
-Rasasi,Shuhrah,Men,41,4.3
-Rasasi,Fattan,Men,70,4.4
-Jean Paul Gaultier,Le Male Le Parfum,Men,108,4.4
-Jean Paul Gaultier,Le Male Elixir,Men,113,4.5
-Jean Paul Gaultier,Ultra Male,Men,84,4.1
-Jean Paul Gaultier,Scandal Le Parfum,Women,87,4.2
-Jean Paul Gaultier,La Belle,Women,102,4.5
-Jean Paul Gaultier,Divine,Women,91,4.8
-Viktor&Rolf,Spicebomb Extreme,Men,83,4.8
-Viktor&Rolf,Spicebomb Infrared,Men,122,4.3
-Viktor&Rolf,Flowerbomb,Women,131,4.8
-Viktor&Rolf,Bonbon,Women,113,4.6
-Givenchy,Gentleman Reserve Privée,Men,177,4.1
-Givenchy,Gentleman Society,Men,180,4.3
-Givenchy,L'Interdit,Women,123,4.9
-Givenchy,Pi,Men,127,4.3
-Dolce&Gabbana,The One EDP,Men,88,4.7
-Dolce&Gabbana,Light Blue Intense,Men,94,4.3
-Dolce&Gabbana,Light Blue Women,Women,101,4.7
-Dolce&Gabbana,K EDT,Men,101,4.6
-Dolce&Gabbana,Devotion,Women,108,4.5
-Montblanc,Explorer,Men,41,4.8
-Montblanc,Explorer Platinum,Men,28,4.2
-Montblanc,Legend Spirit,Men,52,4.8
-Montblanc,Legend Night,Men,27,4.1
-Montblanc,Individual,Men,33,4.6
-Valentino,Born In Roma Intense,Men,143,4.2
-Valentino,Born In Roma Coral Fantasy,Men,166,4.5
-Valentino,Uomo Intense,Men,164,4.5
-Valentino,Donna Born In Roma,Women,124,4.2
-Burberry,Hero EDP,Men,94,4.5
-Burberry,Burberry Her,Women,122,4.6
-Burberry,Goddess,Women,93,4.4
-Burberry,Touch for Men,Men,80,4.3
-Hugo Boss,Boss Bottled Elixir,Men,80,4.8
-Hugo Boss,Boss Bottled Pacific,Men,101,4.6
-Hugo Boss,The Scent Magnetic,Men,88,4.4
-Carolina Herrera,Bad Boy Cobalt,Men,127,4.9
-Carolina Herrera,Bad Boy Extreme,Men,94,4.8
-Carolina Herrera,Good Girl,Women,105,4.8
-Carolina Herrera,Very Good Girl,Women,97,4.8
-Carolina Herrera,212 VIP Men,Men,78,4.2
-Afnan,Turathi Brown (Refill),Men,70,4.8
-Armaf,Club de Nuit Untold (Tester),Unisex,37,4.1
-Azzaro,Pour Homme (Travel Size),Men,68,4.3
-Giorgio Armani,Stronger With You Intensely (50ml),Men,205,4.2
-Versace,Crystal Noir (100ml),Women,99,4.3
-Dior,Dior Homme Intense (200ml),Men,142,4.0
-Chanel,Bleu de Chanel EDP (Refill),Men,187,4.3
-Creed,Green Irish Tweed (Tester),Men,322,4.3
-Tom Ford,Soleil Blanc (Travel Size),Unisex,454,4.3
-Parfums de Marly,Layton (50ml),Men,239,4.8
-Yves Saint Laurent,La Nuit de L'Homme (100ml),Men,130,4.5
-Prada,L'Homme Prada (200ml),Men,59,4.1
-Paco Rabanne,Phantom (Refill),Men,99,4.7
-Guerlain,Shalimar (Tester),Women,196,4.5
-Hermès,Twilly d'Hermès (Travel Size),Women,114,4.3
-Lattafa,Nebras (50ml),Unisex,32,4.2
-Nishane,Hundred Silent Ways (100ml),Unisex,180,4.5
-Xerjoff,Casamorati Mefisto (200ml),Men,280,4.3
-Maison Francis Kurkdjian,Baccarat Rouge 540 (Refill),Unisex,520,4.8
-Rasasi,Fattan (Tester),Men,40,4.6
-Jean Paul Gaultier,Le Male Le Parfum (Travel Size),Men,147,4.8
-Viktor&Rolf,Flowerbomb (50ml),Women,140,4.4
-Givenchy,Pi (100ml),Men,160,4.5
-Dolce&Gabbana,Light Blue Intense (200ml),Men,108,4.6
-Montblanc,Legend Night (Refill),Men,63,4.7
-Valentino,Born In Roma Coral Fantasy (Tester),Men,162,4.4
-Burberry,Hero EDP (Travel Size),Men,93,4.3
-Hugo Boss,Boss Bottled Pacific (50ml),Men,155,4.5
-Carolina Herrera,Good Girl (100ml),Women,114,4.4
-Afnan,Modest Une (200ml),Men,52,4.4
-Armaf,Club de Nuit Sillage (Refill),Unisex,62,4.1
-Azzaro,Chrome Extreme (Tester),Men,139,4.6
-Giorgio Armani,Code Parfum (Travel Size),Men,108,4.7
-Versace,Dylan Blue (50ml),Men,141,4.3
-Dior,Dior Homme Intense (100ml),Men,122,4.0
-Chanel,Bleu de Chanel EDP (200ml),Men,206,4.6
-Creed,Green Irish Tweed (Refill),Men,413,4.4
-Tom Ford,Black Orchid (Tester),Unisex,376,4.4
-Parfums de Marly,Sedley (Travel Size),Men,255,4.6
-Yves Saint Laurent,Y EDP (50ml),Men,112,4.7
-Prada,Luna Rossa Ocean (100ml),Men,77,4.7
-Paco Rabanne,Fame (200ml),Women,121,4.4
-Guerlain,Habit Rouge (Refill),Men,148,4.8
-Hermès,Terre d'Hermès EDT (Tester),Men,201,4.1
-Lattafa,Fakhar Black (Travel Size),Men,62,4.5
-Nishane,Wulong Cha (50ml),Unisex,484,4.3
-Xerjoff,Renaissance (100ml),Unisex,493,4.7
-Maison Francis Kurkdjian,724 (200ml),Unisex,398,4.7
-Rasasi,Fattan (Refill),Men,48,4.8
-Jean Paul Gaultier,Divine (Tester),Women,115,4.4
-Viktor&Rolf,Spicebomb Infrared (Travel Size),Men,136,4.2
-Givenchy,Pi (50ml),Men,146,4.2
-Dolce&Gabbana,The One EDP (100ml),Men,146,4.3
-Montblanc,Legend Spirit (200ml),Men,41,4.3
-Valentino,Born In Roma Intense (Refill),Men,120,4.1
-Burberry,Touch for Men (Tester),Men,143,4.1
-Hugo Boss,Boss Bottled Elixir (Travel Size),Men,63,4.4
-Carolina Herrera,Good Girl (50ml),Women,124,4.4
-Afnan,Turathi Blue (100ml),Unisex,33,4.7
-Armaf,Ventana (200ml),Men,77,4.7
-Azzaro,Pour Homme (Refill),Men,57,4.8
-Giorgio Armani,My Way (Tester),Women,207,4.0
-Versace,Man Eau Fraiche (Travel Size),Men,93,4.7
-Dior,J'adore (50ml),Women,141,4.4
-Chanel,Allure Homme Sport Eau Extreme (100ml),Men,196,4.4
-Creed,Carmina (200ml),Women,352,4.6
-Tom Ford,Soleil Blanc (Refill),Unisex,264,4.8
-Parfums de Marly,Herod (Tester),Men,498,4.5
-Yves Saint Laurent,L'Homme (Travel Size),Men,91,4.1
-Prada,Paradoxe (50ml),Women,72,4.8
-Paco Rabanne,1 Million Lucky (100ml),Men,61,4.2
-Guerlain,Shalimar (200ml),Women,139,4.4
-Hermès,H24 (Refill),Men,182,4.3
+Armaf,Club de Nuit Intense Man,Men,35,4.7
+Azzaro,The Most Wanted,Men,95,4.8
+Giorgio Armani,Stronger With You,Men,100,4.7
+Afnan,Turathi Blue,Unisex,40,4.6
+Versace,Eros,Men,85,4.5
+Dior,Sauvage,Men,120,4.6
+Chanel,Bleu de Chanel,Men,140,4.8
+Afnan,Turathi Blue Absolu,Women,155,4.1
+Afnan,Modest Une EDP,Unisex,246,3.9
+Giorgio Armani,Acqua Di Gio Profondo EDT,Unisex,338,3.9
+Chanel,No. 5 Elixir,Men,259,4.5
+Armaf,Club de Nuit Sillage Absolu,Women,204,4.2
+Chanel,Coco Mademoiselle EDP,Men,224,4.0
+Nishane,Ego Parfum,Men,265,4.4
+Xerjoff,Naxos Intense,Women,346,4.8
+Nishane,Ego EDT,Unisex,65,3.9
+Tom Ford,Ombre Leather EDP,Men,81,4.3
+Valentino,Coral Fantasy EDT,Women,211,4.1
+Creed,Aventus Intense,Unisex,117,4.4
+Tom Ford,Oud Wood Elixir,Women,168,4.9
+Lattafa,Asad Absolu,Women,58,4.1
+Azzaro,Chrome Elixir,Women,63,4.1
+Rasasi,Shuhrah EDT,Unisex,285,4.3
+Valentino,Uomo Intense Parfum,Men,156,4.6
+Lattafa,Bade'e Al Oud Honor & Glory Absolu,Unisex,249,4.8
+Xerjoff,Alexandria II EDT,Men,290,4.4
+Azzaro,The Most Wanted EDT,Unisex,111,4.7
+Prada,Infusion d'Iris EDP,Women,225,4.5
+Valentino,Voce Viva Parfum,Unisex,35,4.6
+Afnan,Modest Une Extreme,Women,204,4.0
+Prada,Luna Rossa Black Elixir,Men,164,4.9
+Dior,Miss Dior EDP,Unisex,182,4.7
+Maison Francis Kurkdjian,Aqua Universalis EDT,Men,221,4.7
+Lattafa,Fakhar Black EDP,Unisex,195,4.4
+Afnan,Supremacy Not Only Intense Extreme,Women,152,4.0
+Rasasi,Hawas EDP,Unisex,278,4.7
+Lattafa,Asad EDT,Unisex,273,4.8
+Dior,Dior Homme Intense,Unisex,246,4.9
+YSL,L'Homme Absolu,Unisex,221,4.3
+Maison Francis Kurkdjian,724 EDP,Men,145,4.0
+Armaf,Urban Elixir Intense,Men,331,4.1
+Giorgio Armani,Stronger With You EDT,Men,46,4.8
+Giorgio Armani,My Way EDT,Women,278,4.1
+Versace,Man Eau Fraiche Intense,Women,154,4.7
+Prada,Luna Rossa Black EDP,Men,250,4.3
+Prada,Paradoxe Extreme,Unisex,57,4.6
+Afnan,Turathi Blue Elixir,Unisex,203,4.7
+Afnan,9PM EDT,Men,304,4.3
+Prada,Luna Rossa Black Parfum,Women,157,4.8
+Giorgio Armani,Code Parfum Extreme,Unisex,80,4.0
+Lattafa,Khamrah EDP,Men,115,4.3
+Jean Paul Gaultier,Ultra Male Extreme,Women,60,4.1
+Armaf,Iconic Parfum,Women,176,4.3
+Lattafa,Yara EDT,Men,181,4.1
+Azzaro,The Most Wanted Parfum Absolu,Unisex,61,4.6
+Azzaro,The Most Wanted Intense,Women,287,4.8
+Maison Francis Kurkdjian,Grand Soir EDP,Unisex,71,4.8
+Giorgio Armani,My Way EDP,Unisex,150,4.3
+Rasasi,La Yuqawam Intense,Unisex,50,4.5
+Prada,Infusion d'Iris Intense,Unisex,191,4.8
+Chanel,Coco Mademoiselle EDT,Women,232,4.0
+YSL,L'Homme Parfum,Men,34,4.4
+Lattafa,Asad Intense,Women,97,4.8
+Giorgio Armani,Acqua Di Gio Profondo Parfum,Women,110,4.3
+Lattafa,Bade'e Al Oud Honor & Glory Intense,Unisex,300,3.9
+Afnan,9PM Parfum,Men,84,4.6
+Versace,Dylan Blue Parfum,Unisex,137,4.6
+Chanel,Coco Mademoiselle Intense,Women,158,4.8
+Azzaro,The Most Wanted Absolu,Women,171,3.9
+Parfums de Marly,Pegasus Absolu,Women,112,4.6
+Lattafa,Yara Intense,Men,87,4.0
+Versace,Man Eau Fraiche EDP,Women,328,4.5
+YSL,Myself Extreme,Men,213,4.1
+Tom Ford,Tobacco Vanille Parfum,Unisex,238,4.9
+Versace,Eros Flame Extreme,Men,120,4.8
+Parfums de Marly,Herod Extreme,Unisex,157,4.2
+Afnan,SNOI Extreme,Men,270,4.1
+Valentino,Coral Fantasy Parfum,Men,144,3.9
+Chanel,Egoiste Platinum Parfum,Women,65,4.9
+Creed,Silver Mountain Water Absolu,Unisex,234,4.6
+Lattafa,Bade'e Al Oud Honor & Glory EDP,Men,163,4.1
+Creed,Aventus EDP,Unisex,252,4.2
+Parfums de Marly,Herod Intense,Unisex,89,4.3
+Rasasi,La Yuqawam Parfum,Men,253,3.9
+Lattafa,Asad Parfum,Women,65,4.8
+Parfums de Marly,Delina Parfum,Unisex,93,4.6
+YSL,Libré Parfum,Unisex,239,4.2
+YSL,Libré EDT,Men,245,4.6
+Xerjoff,Erba Pura Intense,Unisex,184,4.3
+Armaf,Club de Nuit Milestone Parfum,Men,250,4.7
+Guerlain,Shalimar Elixir,Women,256,4.6
+Maison Francis Kurkdjian,724 Extreme,Unisex,116,4.6
+YSL,Libré Absolu,Unisex,347,4.2
+Tom Ford,Ombre Leather EDT,Men,105,3.9
+Tom Ford,Black Orchid Intense,Men,263,4.3
+Rasasi,La Yuqawam Absolu,Unisex,226,4.4
+Tom Ford,Oud Wood Absolu,Unisex,32,4.8
+Afnan,SNOI EDT,Men,295,4.4
+Lattafa,Asad Extreme,Men,263,4.0
+Valentino,Voce Viva Intense,Unisex,192,4.9
+Valentino,Voce Viva Extreme,Unisex,288,4.3
+Jean Paul Gaultier,Scandal Parfum,Men,171,4.7
+Maison Francis Kurkdjian,724 Absolu,Men,170,4.3
+YSL,La Nuit de L'Homme Parfum,Women,193,4.8
+Tom Ford,Black Orchid Absolu,Men,139,4.0
+Prada,Luna Rossa Ocean Intense,Women,242,4.0
+Rasasi,Hawas Extreme,Unisex,224,4.4
+Nishane,Fan Your Flames Extreme,Women,244,4.4
+Lattafa,Fakhar Black EDT,Women,142,4.2
+Jean Paul Gaultier,Le Male Elixir,Women,237,4.6
+Valentino,Uomo Intense,Unisex,43,4.8
+Rasasi,Hawas Ice Absolu,Men,72,4.5
+Versace,Pour Homme EDT,Men,163,4.3
+Parfums de Marly,Herod Parfum,Women,159,4.7
+Jean Paul Gaultier,Le Male Elixir Absolu,Unisex,56,4.9
+Nishane,Ani Absolu,Men,50,4.7
+Tom Ford,Oud Wood Extreme,Men,348,4.1
+Versace,Pour Homme Absolu,Men,318,4.8
+Valentino,Coral Fantasy Extreme,Women,115,4.5
+Xerjoff,Torino21 Absolu,Men,68,4.5
+Tom Ford,Tobacco Vanille Absolu,Women,337,4.7
+Rasasi,Hawas Parfum,Unisex,249,4.6
+Giorgio Armani,My Way Absolu,Women,36,4.7
+Nishane,Hundred Silent Ways Absolu,Men,252,4.1
+Maison Francis Kurkdjian,Gentle Fluidity Silver Intense,Unisex,277,4.4
+Rasasi,Shuhrah Parfum,Men,74,4.2
+Valentino,Uomo Intense Extreme,Women,321,4.5
+Xerjoff,Alexandria II EDP,Women,196,4.1
+Chanel,Coco Mademoiselle Extreme,Women,204,4.2
+Guerlain,Shalimar Intense,Men,294,4.8
+Giorgio Armani,Acqua Di Gio Profondo Absolu,Women,280,4.5
+Jean Paul Gaultier,Scandal Extreme,Men,77,4.2
+Xerjoff,Erba Pura Parfum,Unisex,327,4.3
+Lattafa,Fakhar Black Parfum,Women,311,4.2
+Creed,Green Irish Tweed EDP,Unisex,128,4.2
+Rasasi,Hawas Ice Intense,Women,81,4.7
+Dior,Dior Homme Intense EDP,Unisex,303,4.0
+YSL,La Nuit de L'Homme Absolu,Women,82,4.8
+Rasasi,Shuhrah Elixir,Women,255,4.2
+Azzaro,Chrome Extreme,Women,88,4.7
+Xerjoff,Torino21 EDP,Unisex,57,4.1
+Rasasi,Shuhrah EDP,Men,90,4.5
+Guerlain,L'Homme Ideal Extreme,Unisex,224,4.4
+Rasasi,Fattan Parfum,Unisex,347,4.0
+Afnan,9PM Absolu,Men,165,4.6
+Dior,Fahrenheit EDT,Unisex,68,4.1
+Prada,Paradoxe Absolu,Unisex,270,4.2
+Tom Ford,Ombre Leather Absolu,Women,262,4.0
+Tom Ford,Ombre Leather Extreme,Unisex,331,4.6
+Chanel,Egoiste Platinum EDP,Unisex,145,4.5
+Azzaro,Wanted by Night Extreme,Women,334,4.6
+Afnan,SNOI Absolu,Women,236,4.8
+Maison Francis Kurkdjian,Aqua Universalis Elixir,Women,71,4.5
+Tom Ford,Lost Cherry Intense,Men,167,4.5
+Dior,J'adore Intense,Unisex,256,4.8
+Dior,Miss Dior Elixir,Unisex,281,4.9
+Jean Paul Gaultier,Le Beau Le Parfum Elixir,Women,194,4.6
+Dior,Dior Homme Intense Elixir,Unisex,283,4.2
+Xerjoff,Renaissance EDP,Women,75,4.2
+Parfums de Marly,Layton Extreme,Women,293,4.7
+Armaf,Urban Elixir,Women,57,4.1
+Nishane,Ego Extreme,Women,350,4.3
+Azzaro,Wanted by Night Parfum,Unisex,97,4.8
+Valentino,Yellow Dream EDP,Men,341,4.7
+Giorgio Armani,Acqua Di Gio Profondo Extreme,Men,266,4.8
+Creed,Millésime Impérial Extreme,Women,271,4.1
+Lattafa,Asad Elixir,Men,336,4.4
+Versace,Eros Parfum,Women,204,4.8
+Maison Francis Kurkdjian,Gentle Fluidity Silver Extreme,Men,174,4.6
+Jean Paul Gaultier,Ultra Male Elixir,Unisex,277,4.2
+Lattafa,Fakhar Black Elixir,Women,194,4.8
+Tom Ford,Lost Cherry Elixir,Men,240,3.9
+Jean Paul Gaultier,Scandal Elixir,Unisex,107,4.4
+Azzaro,Wanted by Night Intense,Unisex,199,4.8
+Valentino,Born In Roma Intense,Women,37,4.6
+Jean Paul Gaultier,Le Beau Le Parfum,Unisex,233,4.5
+Parfums de Marly,Delina Elixir,Women,350,4.6
+Jean Paul Gaultier,Divine EDP,Unisex,65,4.1
+Giorgio Armani,Code Parfum EDP,Unisex,81,4.3
+YSL,Y EDP,Women,58,4.2
+Nishane,Hundred Silent Ways EDT,Men,301,4.3
+Giorgio Armani,My Way Extreme,Women,347,4.6
+Jean Paul Gaultier,Divine EDT,Men,266,4.5
+Valentino,Coral Fantasy Absolu,Men,268,4.8
+Lattafa,Asad EDP,Women,206,4.9
+YSL,La Nuit de L'Homme Elixir,Women,84,4.1
+Rasasi,Shuhrah Intense,Women,181,3.9
+Rasasi,Hawas Intense,Unisex,284,4.7
+YSL,La Nuit de L'Homme Intense,Women,142,4.5
+Guerlain,Shalimar Absolu,Unisex,100,4.5
+Nishane,Ani EDP,Women,197,4.6
+Dior,Dior Homme Intense Extreme,Women,181,4.6
+Parfums de Marly,Layton Elixir,Men,102,4.7
+Tom Ford,Black Orchid Extreme,Unisex,217,4.0
+Xerjoff,Naxos Parfum,Unisex,93,4.4
+Creed,Viking Elixir,Unisex,220,4.0
+Tom Ford,Black Orchid EDP,Unisex,317,4.2
+Guerlain,L'Homme Ideal Extreme Absolu,Men,267,4.8
+YSL,L'Homme EDP,Men,53,4.8
+Afnan,9PM Intense,Men,228,4.4
+Afnan,SNOI Intense,Women,173,3.9
+Nishane,Ani Elixir,Women,150,4.8
+Afnan,Supremacy Not Only Intense,Unisex,213,4.0
+Valentino,Born In Roma Absolu,Men,335,4.9
+Azzaro,Chrome EDT,Men,319,4.1
+Chanel,Allure Homme Sport Parfum,Men,335,3.9
+Versace,Eros Flame Intense,Women,119,4.0
+Armaf,Club de Nuit Sillage EDP,Women,151,4.5
+Armaf,Club de Nuit Sillage Parfum,Men,94,4.6
+Maison Francis Kurkdjian,Baccarat Rouge 540 Absolu,Men,273,4.3
+Nishane,Ego Intense,Men,261,4.4
+Guerlain,L'Homme Ideal EDP Absolu,Unisex,296,4.2
+Armaf,Club de Nuit Intense Man Elixir,Women,248,4.6
+Jean Paul Gaultier,Scandal EDP,Men,194,4.5
+Guerlain,Vetiver Intense,Unisex,196,4.3
+Guerlain,Vetiver Parfum,Women,288,4.5
+Afnan,Turathi Blue Extreme,Unisex,312,4.6
+Chanel,Egoiste Platinum Elixir,Men,241,4.2
+Valentino,Yellow Dream Elixir,Unisex,78,4.2
+Parfums de Marly,Haltane Parfum,Men,272,4.0
